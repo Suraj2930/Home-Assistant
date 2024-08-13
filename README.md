@@ -15,21 +15,37 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 ----
 
-<div align="justify"> 
-
 **Installation**
-
+  
 [Go here](https://www.home-assistant.io/installation/) and here install the type of installation you are comfortable with & follow each step mention properly.
+
+</div>
 
 ----
 
+<div align="justify">
+  
 **Steps**
 
 - Install Home Assistant OS: Follow the on-screen instructions after booting from the downloaded image.
-- Access Home Assistant: Open a web browser and go to the IP address.
+- Access Home Assistant: Open a web browser and go to the IP address. `Default` (http://homeassistant.local:8123/),if this doesn't work you have to find your server's IP 
+  either from below:
+  - `1` HomeAssitant CLI
+  - ![](./docs/CLI.jpg "1")
+      <br>
+      `OR`
+  - `2` Router's devices list
+  - ![](./docs/RouterList.jpg "2")
+      <img align="left" src="./docs/RouterList.jpg">
+
+</div>
+
+<div align="justify"> 
+  
 - Configure: Set up your account, location, and time zone.
 - Integrate Devices: Add your IoT devices using the Home Assistant integration page.
+  
+</div>
 
 ----
 
-</div>

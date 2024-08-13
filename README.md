@@ -70,6 +70,8 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 **Here is example of controlling A Led and monitoring value of an analog sensor**
 
+<img align = "right" width="400" height="400" src="./docs/EspHome_Sample.jpg">
+
 ```yaml
 
 switch:
@@ -85,5 +87,6 @@ sensor:
     name: "power level"
 
 ```
+
 
 </div>

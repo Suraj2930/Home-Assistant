@@ -94,3 +94,6 @@ sensor:
 </div>
 
 </div>
+
+----
+For More EspHome Customization [Go here](Customization_with_EspHome.md)

@@ -32,7 +32,6 @@ Transform your home into a smart space with this Home Assistant project. Easily 
   either from below:
   - `1` HomeAssitant CLI
     ![](./docs/CLI.jpg "HomeAssitant CLI")
-      <br>
   - `2` Router's devices list
     ![](./docs/RouterList.jpg "Router's devices list")
 

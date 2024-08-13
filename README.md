@@ -71,6 +71,9 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 **Here is example of controlling A Led and monitoring value of an analog sensor**
 
 <img  align = "right" width="550" height="400" src="./docs/Led_Control.gif">
+<img align = "left" width="250" height="150" src="./docs/Led_sample.gif">
+
+----
 
 ```yaml
 
@@ -86,10 +89,6 @@ sensor:
     pin: VCC
     name: "power level"
 ```
-----
-
-<img align = "left" width="200" height="150" src="./docs/Led_sample.gif">
-
 ----
 
 `For More EspHome Customization` [Go here](Customization_with_EspHome.md)

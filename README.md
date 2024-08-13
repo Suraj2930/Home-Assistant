@@ -51,11 +51,11 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 - `click install and start add-on`
 
-<img width="600" height="400" src="./docs/EspHome_addon_start.jpg">
+<img width="600" height="400" src="./docs/EspHome_addon_Start.jpg">
 
 - `Go to Esphome menu on the left`
   
-<img width="300" height="400" src="./docs/EspHome_setup.jpg">
+<img width="300" height="400" src="./docs/EspHome_Setup.jpg">
 
 - `Add a new device by clicking new device`
 - It will take you here : [Setup_newBoard](https://web.esphome.io/?dashboard_wizard)

@@ -72,8 +72,6 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 <img  align = "right" width="550" height="400" src="./docs/Led_Control.gif">
 
-<div align = "left">
-
 ```yaml
 
 switch:
@@ -88,16 +86,12 @@ sensor:
     pin: VCC
     name: "power level"
 ```
+----
 
 <img align = "left" width="200" height="150" src="./docs/Led_sample.gif">
 
-</div>
-
-
-
 ----
 
-
-For More EspHome Customization [Go here](Customization_with_EspHome.md)
+`For More EspHome Customization` [Go here](Customization_with_EspHome.md)
 
 </div>

@@ -32,9 +32,9 @@ Transform your home into a smart space with this Home Assistant project. Easily 
     `Default IP address` (http://homeassistant.local:8123/), if this doesn't work you have to find your server's IP either from below:
 
   1. `HomeAssitant CLI` : 
-    - <img align = "left" width="600" height="450" src="./docs/CLI.jpg">
+  - <img align = "left" width="600" height="300" src="./docs/CLI.jpg">
   2. `Router's devices list` : 
-    - <img align = "left" width="600" height="300" src="./docs/RouterList.jpg ">
+  - <img align = "left" width="400" height="300" src="./docs/RouterList.jpg ">
 
 </div>
 

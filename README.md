@@ -1,5 +1,5 @@
-# Home Automation with Home Assistant 
-<img align = "right" width="20" height="20" src="./docs/HA_Icon.jpg">
+# Home Automation with Home Assistant <img align = "right" width="30" height="30" src="./docs/HA_Icon.jpg">
+
 **Home automation project using Home Assistant for IoT device monitoring and control**
 
 <img align = "right" width="300" height="200" src="./docs/logo.jpg">
@@ -39,5 +39,6 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 ----
 
-## Customization with EspHome: <img align = "right" width="60" height="20" src="./docs/EspHome_Icon.jpg">
+## Customization with EspHome: <img width="100" height="25" src="./docs/EspHome_Icon.jpg">
 
+- Add Esphome Add from the addon store:

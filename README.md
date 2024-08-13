@@ -64,7 +64,7 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 - click `connect` and select your device if shown in the list if not reconnect or check for suitable drivers for your board
 - Follow the next steps like `wifi credentials` and upload the EspHome firmware
--  Now your device will be shown in the esphome tab & you edit the code:
+- Now your device will be shown in the esphome tab & you edit the code:
 
 ----
 
@@ -86,11 +86,10 @@ sensor:
 ```
 ----
 
-<img  align = "right" width="550" height="400" src="./docs/Led_Control.gif">
-<img align = "left" width="250" height="400" src="./docs/Led_sample.gif">
+<img width="550" height="400" src="./docs/Led_Control.gif">
+<img width="250" height="400" src="./docs/Led_sample.gif">
 
 ----
 </div>
-
 
 **`For More EspHome Customization` [Go here](Customization_with_EspHome.md)**

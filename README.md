@@ -31,12 +31,10 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 - Access Home Assistant: Open a web browser and go to the IP address. `Default` (http://homeassistant.local:8123/),if this doesn't work you have to find your server's IP 
   either from below:
   - `1` HomeAssitant CLI
-  - ![](./docs/CLI.jpg "1")
+    ![](./docs/CLI.jpg "HomeAssitant CLI")
       <br>
-      `OR`
   - `2` Router's devices list
-  - ![](./docs/RouterList.jpg "2")
-      <img align="left" src="./docs/RouterList.jpg">
+    ![](./docs/RouterList.jpg "Router's devices list")
 
 </div>
 

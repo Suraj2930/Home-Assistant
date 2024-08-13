@@ -70,7 +70,7 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 **Here is example of controlling A Led and monitoring value of an analog sensor**
 
-<img align = "right" width="550" height="400" src="./docs/Led_Control.gif">
+<img style = "border:1px solid black;" align = "right" width="550" height="400" src="./docs/Led_Control.gif">
 
 ```yaml
 
@@ -87,6 +87,6 @@ sensor:
     name: "power level"
 
 ```
-<img align = "left" width="250" height="150" src="./docs/Led_sample.gif">
+<img style = "border:1px solid black;" align = "left" width="280" height="180" src="./docs/Led_sample.gif">
 
 </div>

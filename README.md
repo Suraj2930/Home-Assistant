@@ -1,4 +1,5 @@
-# Home Automation with Home Assistant
+# Home Automation with Home Assistant 
+<img align = "right" width="20" height="20" src="./docs/HA_Icon.jpg">
 **Home automation project using Home Assistant for IoT device monitoring and control**
 
 <img align = "right" width="300" height="200" src="./docs/logo.jpg">
@@ -35,5 +36,8 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 3. Configure: Set up your account, location, and time zone. [follow-this](https://www.home-assistant.io/getting-started/onboarding)
 4. Integrate Devices: Add your IoT devices using the Home Assistant integration page.
-  
+
 ----
+
+## Customization with EspHome: <img align = "right" width="60" height="20" src="./docs/EspHome_Icon.jpg">
+

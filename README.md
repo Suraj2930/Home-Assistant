@@ -89,10 +89,8 @@ sensor:
 <img  align = "right" width="550" height="400" src="./docs/Led_Control.gif">
 <img align = "left" width="250" height="400" src="./docs/Led_sample.gif">
 
-<br>
-
 ----
-
-`For More EspHome Customization` [Go here](Customization_with_EspHome.md)
-
 </div>
+
+
+**`For More EspHome Customization` [Go here](Customization_with_EspHome.md)**

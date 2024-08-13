@@ -87,6 +87,6 @@ sensor:
     name: "power level"
 
 ```
-<img align = "right" width="100" height="200" src="./docs/Led_sample.gif">
+<img align = "left" width="100" height="200" src="./docs/Led_sample.gif">
 
 </div>

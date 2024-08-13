@@ -51,16 +51,16 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 - `click install and start add-on`
 
-<img width="600" height="400" src="./docs/EspHome_addon_Start.jpg">
+<img width="700" height="400" src="./docs/EspHome_addon_Start.jpg">
 
 - `Go to Esphome menu on the left`
   
-<img width="300" height="400" src="./docs/EspHome_Setup.jpg">
+<img width="700" height="400" src="./docs/EspHome_Setup.jpg">
 
 - `Add a new device by clicking new device`
 - It will take you here : [Setup_newBoard](https://web.esphome.io/?dashboard_wizard)
 - Connect the Esp-Board to the computer or laptop on which you have opened the Home Assistant dashboard for the setup.
-<img width="300" height="400" src="./docs/Esp-add_device.jpg">
+<img width="350" height="400" src="./docs/Esp-add_device.jpg">
 
 - click `connect` and select your device if shown in the list if not reconnect or check for suitable drivers for your board
 - Follow the next steps like `wifi credentials` and upload the EspHome firmware

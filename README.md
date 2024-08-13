@@ -23,7 +23,7 @@ Transform your home into a smart space with this Home Assistant project. Easily 
 
 ----
 
-<div align="justify">
+<div align="left">
   
 **Steps**
 
